@@ -13,7 +13,7 @@
 
 ---
 
-## 🧰 My Arsenal (Tech Stack)
+## 🧰 Arsenal (Tech Stack)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -37,8 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=octoDynamo&show_icons=true&theme=dark&icon_color=FF8800" alt="Your GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=octoDynamo&theme=dark&fire=FF8800" alt="Your Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octoDynamo&layout=compact&theme=dark&hide=css,html" alt="English | Frensh | Arabic" />
 </p>
