@@ -21,7 +21,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -39,7 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=octoDynamo&show_icons=true&theme=dark&icon_color=FF8800" alt="Your GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octoDynamo&theme=dark&fire=FF8800" alt="Your Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=octoDynamo&theme=dark&fire=FF8800" alt="Your Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octoDynamo&layout=compact&theme=dark&hide=css,html" alt="English | Frensh | Arabic" />
 </p>
