@@ -70,15 +70,14 @@
 
 ## ⚡ Fun Facts About Me
 
-- 🔐 I've broken into systems ethically that were considered "unhackable."  
 - 🧩 I solve puzzles and capture-the-flag (CTF) challenges in my free time.  
 - 🎮 Gamer at heart, often analyzing the security of multiplayer systems.  
-- 🧪 Experimenting with **AI in Cybersecurity** for real-time threat detection.  
+- 🧪 Learning to use **AI in Cybersecurity** for real-time threat detection.  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=octoDynamo&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
