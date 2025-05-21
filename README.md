@@ -4,15 +4,6 @@
 
 ---
 
-## 🕵️‍♂️ Who Am I?
-
-- 🛡️ A passionate **Cybersecurity Professional** dedicated to safeguarding digital realms.  
-- 🔎 Skilled in **Penetration Testing**, **Vulnerability Assessment**, and **Incident Response**.  
-- 🌱 Constantly exploring new tools, techniques, and technologies in the ever-evolving security landscape.  
-- 💡 Advocate for privacy, secure coding, and educating others about cybersecurity best practices.  
-
----
-
 ## 🧰 Arsenal (Tech Stack)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -45,7 +36,6 @@
 
 ## 🎯 Current Mission
 - 🔍 Enhancing skills in **Malware Analysis** and **Reverse Engineering**.  
-- 🛠️ Developing a suite of cybersecurity tools for automated scanning.  
 - 🌐 Contributing to open-source security frameworks and projects.  
 
 ---
@@ -63,14 +53,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Facts About Me
-
-- 🧩 I solve puzzles and capture-the-flag (CTF) challenges in my free time.  
-- 🎮 Gamer at heart, often analyzing the security of multiplayer systems.  
-- 🧪 Learning to use **AI in Cybersecurity** for real-time threat detection.  
 
 ---
 
