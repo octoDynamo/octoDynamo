@@ -1,4 +1,4 @@
-# 👾 Hello ! I'm M4hdii 👨‍💻
+# Hello !
 
 > 🚀 **Cybersecurity Enthusiast | Problem Solver**  
 
@@ -24,22 +24,6 @@
 
 ---
 
-## 🧑‍💻 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octoDynamo&show_icons=true&theme=dark&icon_color=FF8800" alt="Your GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octoDynamo&layout=compact&theme=dark&hide=css,html" alt="English | Frensh | Arabic" />
-</p>
-
----
-
-## 🎯 Current Mission
-- 🔍 Enhancing skills in **Malware Analysis** and **Reverse Engineering**.  
-- 🌐 Contributing to open-source security frameworks and projects.  
-
----
-
 ## 🌐 Let’s Connect & Collaborate
 
 <p align="center">
@@ -62,4 +46,4 @@
 
 ---
 
-🎉 **Thanks for visiting my profile!** Let's secure the digital world together. 😊
+**Thanks
